@@ -1,7 +1,7 @@
 {
   "name": "fireworks-cli",
   "description": "Command-line interface to Fireworks framework",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Stefan Liden <stefan.liden@gmail.com>",
   "contributors": [
 	{
